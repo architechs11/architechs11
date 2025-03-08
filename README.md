@@ -1,12 +1,11 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="left">Hey 👋 What's Up? </h1>
+
+<p>My name is Archit Shukla, and I'm from India. </p>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Archit Shukla<br><br>- 🎓 Final-year Computer Science & Engineering student<br>- 💻 Passionate about Web Development, AI, and Algorithms<br>- 🚀 Currently building a research paper & project report platform using React.js<br>- 📌 Exploring unique project ideas with Java, AI, and development</p>
+<p align="left">- 🎓 Final-year Computer Science & Engineering student<br>- 💻 Passionate about Web Development, AI, and Algorithms<br>- 🚀 Currently building a research paper & project report platform using React.js<br>- 📌 Exploring unique project ideas with Java, AI, and development</p>
 
 ###
 
@@ -73,6 +72,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Portfolio: <a href= "https://architechs11.netlify.app/">architechs11.netlify.app</a></h3>
+
+###
+
+<h3>Resume: <a href= "https://drive.google.com/file/d/1ztY_f4W3W2IHSP4lkT7pI6MJgAjm1OzC/view?usp=drive_link">Archit_Shukla</a></h3>
 
 ###
