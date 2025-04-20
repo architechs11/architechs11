@@ -70,6 +70,6 @@
 
 ###
 
-<h3>Resume: <a href= "https://drive.google.com/file/d/1ztY_f4W3W2IHSP4lkT7pI6MJgAjm1OzC/view?usp=drive_link">Archit_Shukla</a></h3>
+<h3>Resume: <a href= "https://drive.google.com/file/d/127VYVHEjrD2cCFSPXz7oxbhF1k0vqGyV/view?usp=sharing">Archit_Shukla</a></h3>
 
 ###
