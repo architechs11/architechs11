@@ -70,4 +70,4 @@
 ###
 
 <h3 align="left">📄 Resume:</h3> 
-<p><a href="[https://drive.google.com/file/d/127VYVHEjrD2cCFSPXz7oxbhF1k0vqGyV/view?usp=sharing](https://drive.google.com/file/d/1cACVuthpi6yEzArGJiOZSQZXjY1Z_3P4/view)">Archit_Shukla</a></p>
+<p><a href="https://drive.google.com/file/d/1cACVuthpi6yEzArGJiOZSQZXjY1Z_3P4/view">Archit_Shukla</a></p>
