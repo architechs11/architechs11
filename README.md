@@ -6,11 +6,13 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-- 💼 Software Developer with a passion for building impactful and scalable web applications<br>
-- 🎓 Completed B.Tech in Computer Science & Engineering<br>
-- 💻 Skilled in Web Development, Software Development, and Algorithms<br>
-- 🚀 Experienced in building full-stack applications<br>
-- 📌 Always exploring innovative project ideas that integrate Java, AI, and modern development practices
+  💼 Software Developer focused on designing scalable, high-performance web applications and backend systems.  
+  🚀 Currently working with Node.js, Next.js, PostgreSQL, and modern cloud-based architectures to build production-ready solutions.  
+  🧠 Strong foundation in Data Structures, Algorithms, enabling me to write efficient and maintainable software.  
+  ⚡ Experienced in full-stack development — from crafting responsive frontends to building secure APIs and optimized databases.  
+  🔍 Passionate about solving real-world problems through technology, automation, and intelligent system design.  
+  📚 Continuously learning and exploring advanced concepts like distributed systems, cloud computing (AWS), and AI-integrated applications.  
+  🎯 Goal: To evolve into a highly skilled Software Engineer specializing in scalable systems, backend architecture, and intelligent platforms.
 </p>
 
 ###
@@ -55,6 +57,10 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
@@ -70,4 +76,4 @@
 ###
 
 <h3 align="left">📄 Resume:</h3> 
-<p><a href="https://drive.google.com/file/d/1cACVuthpi6yEzArGJiOZSQZXjY1Z_3P4/view">Archit_Shukla</a></p>
+<p><a href="https://drive.google.com/file/d/1g3qV1vrYS1GOB2mLxSjZNecKDOHAyOIJ/view?usp=sharing">Archit_Shukla</a></p>
