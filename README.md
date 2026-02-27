@@ -4,16 +4,15 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
-<p align="left">
-  💼 Software Developer focused on designing scalable, high-performance web applications and backend systems.  
-  🚀 Currently working with Node.js, Next.js, PostgreSQL, and modern cloud-based architectures to build production-ready solutions.  
-  🧠 Strong foundation in Data Structures, Algorithms, enabling me to write efficient and maintainable software.  
-  ⚡ Experienced in full-stack development — from crafting responsive frontends to building secure APIs and optimized databases.  
-  🔍 Passionate about solving real-world problems through technology, automation, and intelligent system design.  
-  📚 Continuously learning and exploring advanced concepts like distributed systems, cloud computing (AWS), and AI-integrated applications.  
-  🎯 Goal: To evolve into a highly skilled Software Engineer specializing in scalable systems, backend architecture, and intelligent platforms.
-</p>
+### 👨‍💻 About Me
+
+- 💼 Software Developer focused on designing scalable, high-performance web applications and backend systems  
+- 🚀 Currently working with Node.js, Next.js, PostgreSQL, and modern cloud-based architectures  
+- 🧠 Strong foundation in Data Structures and Algorithms  
+- ⚡ Experienced in full-stack development and backend architecture  
+- 🔍 Passionate about solving real-world engineering problems  
+- 📚 Exploring distributed systems, AWS, Docker, and AI integrations  
+- 🎯 Goal: Become an expert in scalable backend and intelligent platforms  
 
 ###
 
@@ -63,9 +62,9 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
 </div>
 
 ###
