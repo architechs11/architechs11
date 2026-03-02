@@ -11,7 +11,7 @@
 - 🧠 Strong foundation in Data Structures and Algorithms  
 - ⚡ Experienced in full-stack development and backend architecture  
 - 🔍 Passionate about solving real-world engineering problems  
-- 📚 Exploring distributed systems, AWS, Docker, and AI integrations  
+- 📚 Exploring AWS, Docker, and AI integrations  
 - 🎯 Goal: Become an expert in scalable backend and intelligent platforms  
 
 ###
